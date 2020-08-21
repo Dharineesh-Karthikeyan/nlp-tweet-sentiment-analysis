@@ -47,7 +47,7 @@ The order of execution, for the sake of simplicity we named the python files wit
      * list of emoticons and words - emoticons.txt, words.txt
 	
 	
-   * [Plots]()https://github.com/Dharineesh-Karthikeyan/nlp-tweet-sentiment-analysis/tree/master/Plots:\
+   * [Plots](https://github.com/Dharineesh-Karthikeyan/nlp-tweet-sentiment-analysis/tree/master/Plots):\
      Contains a png of every graph or representation used in the codes.
 
 
