@@ -1,3 +1,8 @@
+## Introduction
+Sentiment Analysis on Twitter Data . Classifying them based on polarity into positive, negative and neutral Using Classical Machine Learning methods.
+This project is a part of **IIT-K Machine Learning and Data Science Internship (2020)**
+
+
 ## Aim of Project
 
 This project addresses the problem of sentiment analysis on twitter data. The goal of our project is to build a sentiment analysis model on the given data. Our main area of focus is on the **Classical Machine Learning methods**. 
