@@ -23,23 +23,23 @@ The order of execution, for the sake of simplicity we named the python files wit
 
 **Python files:**\
    Order of Execution and Functionality:
-   1. Data Cleaning.ipynb:
+   1. [Data Cleaning.ipynb](https://github.com/Dharineesh-Karthikeyan/nlp-tweet-sentiment-analysis/blob/master/1)%20Data_Cleaning.ipynb):
        * Cleans the data and creates new csv files containing clean data.
-   2. Data Analysis.ipynb:
+   2. [Data Analysis.ipynb](https://github.com/Dharineesh-Karthikeyan/nlp-tweet-sentiment-analysis/blob/master/2)%20Data_Analysis.ipynb):
        * Analysing the data and providing study results.
-   3. Model Selection.ipynb:
+   3. [Model Selection.ipynb](https://github.com/Dharineesh-Karthikeyan/nlp-tweet-sentiment-analysis/blob/master/3)%20Model%20Selection.ipynb):
        * To compare different models and select the best.
-   4. Hyperparameter tuning.ipynb:
+   4. [Hyperparameter tuning.ipynb](https://github.com/Dharineesh-Karthikeyan/nlp-tweet-sentiment-analysis/blob/master/4)%20Hyperparameter%20tuning.ipynb):
        * Hyperparameter tuning of the selected models.
-   5. Detector.py:
+   5. [Detector.py](https://github.com/Dharineesh-Karthikeyan/nlp-tweet-sentiment-analysis/blob/master/5)%20Detector.py):
        * Contains classes for Emoticon and Word Detection. (Imported to other files)
-   6. Additional Features.ipynb:
+   6. [Additional Features.ipynb](https://github.com/Dharineesh-Karthikeyan/nlp-tweet-sentiment-analysis/blob/master/6)%20Additional_Features.ipynb):
        * Extracts additional features and creates new csv files containing Additional Features.
-   7. Final Model.ipynb:
+   7. [Final Model.ipynb](https://github.com/Dharineesh-Karthikeyan/nlp-tweet-sentiment-analysis/blob/master/7)%20Final%20Model.ipynb):
        * The final code to predict the outputs
 
 **Folders:**
-   * Data:\
+   * [Data](https://github.com/Dharineesh-Karthikeyan/nlp-tweet-sentiment-analysis/tree/master/Data):\
      Contains all the datasets and files used in the codes. They contain the following:
      * given datasets - train.txt , test_samples.txt
      * cleaned datasets (From Data_Cleaning.ipynb) - train_clean_data.csv, test_clean_data.csv
@@ -47,12 +47,12 @@ The order of execution, for the sake of simplicity we named the python files wit
      * list of emoticons and words - emoticons.txt, words.txt
 	
 	
-   * Plots:\
+   * [Plots]()https://github.com/Dharineesh-Karthikeyan/nlp-tweet-sentiment-analysis/tree/master/Plots:\
      Contains a png of every graph or representation used in the codes.
 
 
 **Submission file:**\
-submission.csv is the final submitted file on kaggle
+[submission.csv](https://github.com/Dharineesh-Karthikeyan/nlp-tweet-sentiment-analysis/blob/master/submission.csv) is the final submitted file on kaggle
 
 
 ## Kaggle In-class Competition
