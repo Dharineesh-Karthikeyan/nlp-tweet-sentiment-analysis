@@ -22,7 +22,7 @@ This is a basic explanation of the functionalities of each folder, and purpose o
 The order of execution, for the sake of simplicity we named the python files with the according number.
 
 **Python files:**\
-   Order of Execution and Functionality:\
+   Order of Execution and Functionality:
    1. Data Cleaning.ipynb:
        * Cleans the data and creates new csv files containing clean data.
    2. Data Analysis.ipynb:
