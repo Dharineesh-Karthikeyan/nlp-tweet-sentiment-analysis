@@ -9,7 +9,7 @@ This project addresses the problem of sentiment analysis on twitter data. The go
 
 ## Authors
 
-* [**Varshini P J**](https://github.com/)
+* [**Varshini P J**](https://github.com/Varshinipj)
 * [**Dharineesh Karthikeyan**](https://github.com/Dharineesh-Karthikeyan)
 
 ## Project Report
