@@ -65,7 +65,5 @@ The link to the [kaggle competition](https://www.kaggle.com/c/sentiment-analysis
 ## Acknowledgments
 
 * All acknowledgments are mentioned in the end page of the report 
-* Special mention for ideas are:
-    * https://github.com/ajayshewale/Sentiment-Analysis-of-Text-Data-Tweets-
-    * https://github.com/sharmaroshan/Twitter-Sentiment-Analysis
+
 
